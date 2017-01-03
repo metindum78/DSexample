@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TV>
+  <TV_Info tv_name="nn" tv_serialno="333" time="11:54:54" date="Eki 17 2016" ProjectCount="2" projectname="deneme1" mainprjhtml="file1" Prj1html="file1" Prj1startdate="20.11.2016" Prj1enddate="20.11.2016" Prj1starttime="20:00" Prj1endtime="20:01" Prj1mode="Once" Prj2html="file1" Prj2startdate="20.11.2016" Prj2enddate="20.11.2016" Prj2starttime="20:00" Prj2endtime="20:01" Prj2mode="Once"></TV_Info>
+  <MainAudio filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6139"></MainAudio>
+  <MainVideo filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <MainPicture filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <MainText filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <Prj1Audio filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <Prj1Video filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <Prj1Picture filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <Prj1Text filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <Prj2Audio filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <Prj2Video filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <Prj2Picture filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+  <Prj2Text filecount="2" file1="dnm1.mp4" sha1="38be7d1b981f2fb6a4a0a052453f887373dc1fe8" file2="dnm2.mp4" sha2="639daad06642a8eb86821ff7649e86f5f59c6130" />
+</TV>

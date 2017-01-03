@@ -1,0 +1,1 @@
+gcc test.c -lcurl -lxml2 -I/usr/include/libxml2
